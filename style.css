@@ -10,16 +10,12 @@ body {
 }
 
 h1 {
-    border: 1px solid red;
     font-size: 4em;
     margin: 10px 0;
 }
 
 h2 {
-    border: 1px solid red;
-    margin: 15px 0;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto 20px auto;
 }
 
 #img-div {
@@ -29,7 +25,6 @@ h2 {
 }
 
 img {
-    border: 1px solid blue;
     max-width: 100%;
     display: block;
     height: auto;
@@ -43,13 +38,11 @@ img {
 }
 
 h3 {
-    border: 1px solid blue;
     margin: 50px 0;
 }
 
 ul {
-    border: 1px solid red;
-    max-width: 500px;
+    max-width: 450px;
     margin: 0 auto 50px auto;
     text-align: left;
 }
